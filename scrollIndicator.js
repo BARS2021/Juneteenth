@@ -4,5 +4,4 @@ window.onscroll = function indicateScroll() {
   var scrollHeight = scrollTotal - document.documentElement.clientHeight;
   var scrollPercentage = (scrolledAmount / scrollHeight) * 100;
   document.getElementById("scrollIndicator").style.width = scrollPercentage + "%";
-};
-//
+}
