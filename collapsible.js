@@ -16,3 +16,5 @@ for (var index = 0; index < collapsible.length; index++) {
   }
   collapsible[index].addEventListener("click", expand);
 }
+
+//
