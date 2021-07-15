@@ -181,7 +181,7 @@ a:hover {
 
   }
 
-  .active, .collapsible:hover {
+  .collapsible:hover {
     color: #000000;
     background-color: #00ff00;
   }
